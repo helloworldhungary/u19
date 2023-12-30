@@ -22,3 +22,5 @@
   
 <b>Website:</b> https://U19.progamer113.repl.co
 <b>Invite the bot:</b> u19.progamer113.repl.co/#bot_valasztas
+
+# GET HERE: https://github.com/helloworldhungary/U19-archived
